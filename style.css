@@ -90,6 +90,23 @@ header div a {
 	text-align:center;
 }
 
+.btn {
+	border-radius:1px;
+	background-color:lightgray;
+}
+
+#buttonholder {
+	text-align:center;
+}
+
+#google {
+	text-align:center;
+}
+
+#googleimage {
+	text-align:center;
+}
+
 header a.grid-icon {
 background-image: url('images/grid.png');
 background-repeat: no-repeat;
