@@ -86,6 +86,9 @@ header div a {
 
 }
 
+#textbar {
+	text-align:center;
+}
 
 header a.grid-icon {
 background-image: url('images/grid.png');
