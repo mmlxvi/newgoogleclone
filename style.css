@@ -119,19 +119,25 @@ header div a {
 	font-weight:bolder;
 	margin:6px;
 	padding:8px;
+
 	
 }
 
 .btn:hover {
 	border:1px solid #bbbbbb;
 	border-bottom:2px solid #bbbbbb;
+	outline:none;
 	
 
 }
 
+.btn:focus {
+	outline:none;
+}
 #buttonholder {
 	text-align:center;
 }
+
 
 #google {
 	width:40%;
@@ -142,7 +148,6 @@ header div a {
 	margin-left:auto;
 	margin-right:auto;
 }
-
 
 
 header a.grid-icon {
