@@ -100,15 +100,17 @@ header div a {
 }
 
 #google {
-	text-align:center;
+	width:40%;
 }
 
 #googleimage {
 	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 header a.grid-icon {
-background-image: url('images/grid.png');
+background-image: url('grid.png');
 background-repeat: no-repeat;
 vertical-align: middle;
 background-size: 28px 28px;
