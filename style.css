@@ -99,7 +99,7 @@ header div a {
 
 #textenter {
 	height:24px;
-	width: 550px;
+	width: 555px;
 	margin:12px;
 	border:1px lightgray solid;
 }
@@ -157,6 +157,7 @@ form input {
 
 #googleimage img {
 	width:275px;
+	padding:3px;
 }
 
 
