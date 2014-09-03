@@ -227,5 +227,6 @@ footer a {
 #rightfoot {
 	float:right;
 	display:inline-block;
-	margin:10px;
+	margin:12px;
+	padding:0px 10px 0px 10px;
 }
